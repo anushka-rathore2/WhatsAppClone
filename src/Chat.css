@@ -50,7 +50,6 @@
 .chat__name{
     position: absolute;
     top: -15px;
-    margin-bottom: 2px;
     font-weight: 800;
     font-size: xx-small;
 }
